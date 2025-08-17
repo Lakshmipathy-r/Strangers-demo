@@ -1,5 +1,3 @@
-Here's a sample `README.md` file tailored for the **Strangers** cultural festival project hosted at [strangers-testing.netlify.app](https://strangers-testing.netlify.app/) — perfect for showcasing on GitHub:
-
 ---
 
 # 🎭 Strangers – National Level Cultural Festival
@@ -19,14 +17,14 @@ Welcome to the official repository for **Strangers**, a vibrant and inclusive cu
 - 📅 Easy event registration and details
 - 📱 Responsive design for all devices
 
-##ScreenShots of UI
+##  📸🪄 ScreenShots of UI
 
-![imagealt](https://github.com/Lakshmipathy-r/Strangers-demo/blob/main/ScreenShots/Screenshot%202025-08-17%20132139.png?raw=true)
-![imagealt](https://github.com/Lakshmipathy-r/Strangers-demo/blob/main/ScreenShots/Screenshot%202025-08-17%20132155.png?raw=true)
-![imagealt](https://github.com/Lakshmipathy-r/Strangers-demo/blob/main/ScreenShots/Screenshot%202025-08-17%20132219.png?raw=true)
-![imagealt](https://github.com/Lakshmipathy-r/Strangers-demo/blob/main/ScreenShots/Screenshot%202025-08-17%20132235.png?raw=true)
-![imagealt](https://github.com/Lakshmipathy-r/Strangers-demo/blob/main/ScreenShots/Screenshot%202025-08-17%20132301.png?raw=true)
-![imagealt](https://github.com/Lakshmipathy-r/Strangers-demo/blob/main/ScreenShots/Screenshot%202025-08-17%20132314.png?raw=true)
+![imagealt](https://github.com/Lakshmipathy-r/Strangers-demo/blob/main/ScreenShots/Screenshot%202025-08-17%20132139.png?raw=true) <br><br>
+![imagealt](https://github.com/Lakshmipathy-r/Strangers-demo/blob/main/ScreenShots/Screenshot%202025-08-17%20132155.png?raw=true) <br><br>
+![imagealt](https://github.com/Lakshmipathy-r/Strangers-demo/blob/main/ScreenShots/Screenshot%202025-08-17%20132219.png?raw=true) <br><br>
+![imagealt](https://github.com/Lakshmipathy-r/Strangers-demo/blob/main/ScreenShots/Screenshot%202025-08-17%20132235.png?raw=true)<br><br>
+![imagealt](https://github.com/Lakshmipathy-r/Strangers-demo/blob/main/ScreenShots/Screenshot%202025-08-17%20132301.png?raw=true)<br><br>
+![imagealt](https://github.com/Lakshmipathy-r/Strangers-demo/blob/main/ScreenShots/Screenshot%202025-08-17%20132314.png?raw=true)<br><br>
 
 ## 🚀 Getting Started
 
