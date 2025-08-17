@@ -2,7 +2,6 @@ Here's a sample `README.md` file tailored for the **Strangers** cultural festiva
 
 ---
 
-```markdown
 # 🎭 Strangers – National Level Cultural Festival
 
 Welcome to the official repository for **Strangers**, a vibrant and inclusive cultural festival organized by the **Rotaract Club of Chennai Radiance Raisers**. This dynamic celebration brings together creativity, talent, and friendship through 32 unique events designed to inspire and connect participants from across the country.
@@ -19,6 +18,15 @@ Welcome to the official repository for **Strangers**, a vibrant and inclusive cu
 - 🤝 Platform for collaboration and cultural exchange
 - 📅 Easy event registration and details
 - 📱 Responsive design for all devices
+
+##ScreenShots of UI
+
+![imagealt](https://github.com/Lakshmipathy-r/Strangers-demo/blob/main/ScreenShots/Screenshot%202025-08-17%20132139.png?raw=true)
+![imagealt](https://github.com/Lakshmipathy-r/Strangers-demo/blob/main/ScreenShots/Screenshot%202025-08-17%20132155.png?raw=true)
+![imagealt](https://github.com/Lakshmipathy-r/Strangers-demo/blob/main/ScreenShots/Screenshot%202025-08-17%20132219.png?raw=true)
+![imagealt](https://github.com/Lakshmipathy-r/Strangers-demo/blob/main/ScreenShots/Screenshot%202025-08-17%20132235.png?raw=true)
+![imagealt](https://github.com/Lakshmipathy-r/Strangers-demo/blob/main/ScreenShots/Screenshot%202025-08-17%20132301.png?raw=true)
+![imagealt](https://github.com/Lakshmipathy-r/Strangers-demo/blob/main/ScreenShots/Screenshot%202025-08-17%20132314.png?raw=true)
 
 ## 🚀 Getting Started
 
@@ -54,8 +62,3 @@ Want to participate or learn more? Reach out via the contact section on the [liv
 
 🎉 Let’s celebrate creativity, culture, and connection!
 
-```
-
----
-
-Would you like help customizing this further for your GitHub repo structure or adding contributor guidelines?
