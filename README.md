@@ -32,8 +32,8 @@ To run this project locally:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/strangers-festival.git
-cd strangers-festival
+git clone https://github.com/Lakshmipathy-r/Strangers-demo.git
+cd strangers-demo
 ```
 
 ### 2. Install dependencies
